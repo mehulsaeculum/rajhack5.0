@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dev-project-jnm-smart-cms",
+  "private_key_id": "6a51d67a1684edf664d2ee75e4da9b30f483d93a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCbvlEM6SllIPB1\nKXlM9Rn/aPoeUf6RruO4H/0ZY8Lzt7vUGTblqHcdeWUquSNgJgLYeRZ3BdF+BEP4\nXC7TANJZ+WrBRRJSzV6m+a2yW1y8xpmfK0GCyZfIy7f9CsBXaGploQRxEGu9F+IQ\nQK1yAoXzIH5fpMFkTaybTCmLaI6oFf66mBDeB0p0J/dXHNZ/jmfx0Rqq8BpTRgqw\ngzbI2NkhRSNNhK29RLb7kw1/ldn5NbsefVmpJn37swIzZ+GBziTRfkVk2QTtfsbL\nnkW/wkctpOaxMslQXUMRdiY0rKVwPxQKTWOvkibrXK2yULlX6xiGJaSxiKsK0ksY\nl9mC8InnAgMBAAECggEAA1dB9NVxlQuaV4u5YDxnv4dYdNsMa21FfEHPaO0vauai\nPwAAIfgK/2pcZbNiqLbYBnMT13TGqX3c7rsc1AY8p5Ub7vkU1grgFhPdX9SUONvH\nwtbSM8SFntc5OKfeOAxzhSo+5qVUB6fh/7hAyuUhS3Wt0E5qnu9dna00vO/+vhNG\nJM4p9HZ51Jp4aqD2fvCiVjNO162uA0M5bBMttf2/3QJK+KaB/1rMYpaTY7C06WoN\ny/a8RB17/LkO5FYYAC66wItZTmP1J/0DIpo7RJUWdvYlCiVPdHufj16YMkkft02N\nGqKtSfMDRoOqDfCfrKP2VGtuoIXFSUZrKkqfXjSr+QKBgQDKiq0jc2oR1BsAIH20\nwDtIM3nDpMpguA1fA0pU73+PbGamm3Z5nFB3Gi+V6eImVlGjBE+i1+bMAHB3fsYj\nXH8THkwR9QMbnOLVtEBSJOlb4zKVkzb1HdYOk4qrAuBuN2+zAaCxKLm+ZFjEPTC0\nn9K1k7jhnf7PLnm8SrssvJtqSQKBgQDE2ZPOf1NEJMakR6OxIx8N3gfBT65DljNq\ntD630GcfoAVO2O/yx8scwY8NrSzW2a2zCNALGG8c/L0iQtKqdYq/pSf4TWa7WEmM\n00GRXceUsa0qL6ywVM8gR79uh7hd3tXMvc+0UyKaU42YngEKd8JhezlfFQtV0/Zj\nJ0ASU2vSrwKBgQCfgnl6iuGFKvMctXnqiN3nLcr+fmB3rVuycSfwHjHqpSdunM7A\nVY+1TOUe/nQBV0exx6pkB/6WuN3Z7fhjTuwxBVJJbhlFfNfUD8H8L1+s4xAqZicJ\nAbdcAWxa48gWZQhOBMEl5Hnr7KFP4xThm2DZaX5YCRLs3aA33u7r+5m2KQKBgAY7\niVWBbIZ8z5lF92XVYddTj1VMi4zyRYB8Ynv5ajpzG5fqgHZkYwbvDfN15zSKQdio\nT8X6KRJ24hoimX7yJ8l3ljNjZ/xIiFOgILRUjswjcAMk7UfL957jBqmePHUkaAqK\ne/gOpcrTGGmbnxbQwePKPf/Hr8sw4d0z0fCCmahbAoGAczsRNdtTkXNmOJp2TJWB\nTb3IqAzwEcaY8kygYa/tar1v2f0TN075RpbUFAIEuIUzWVh9A3cQI2kN+EUUd+xW\nbEiUpRSK5/LroguhYxNTMy4D5DeRTklsFOI4pZ990Itga8BL0yDvxsmgDEVWG20L\nhhSQl5cxA4eATiT0szNlces=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dev-cms-backend-bucket@dev-project-jnm-smart-cms.iam.gserviceaccount.com",
+  "client_id": "101924014518312504046",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dev-cms-backend-bucket%40dev-project-jnm-smart-cms.iam.gserviceaccount.com"
+}
